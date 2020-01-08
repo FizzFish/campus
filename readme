@@ -1,0 +1,2 @@
+app.py: responde for HTTP request, including GET, POST, DLETE with student id.
+generate.py: generate 1000 fake student information.
