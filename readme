@@ -1,2 +1,5 @@
-app.py: responde for HTTP request, including GET, POST, DLETE with student id.
+run.py: responde for HTTP request, including GET, POST, DLETE with student id.
+config.py: configure of database.
+model.py: student format info.
+route.py: routes of the flask.
 generate.py: generate 1000 fake student information.
